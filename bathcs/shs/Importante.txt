@@ -1,0 +1,3 @@
+Caso queira usar esses arquivos .sh, você deve executar este comando antes de rodá-los:
+
+chmod +x Build.sh Clean.sh Run.sh
